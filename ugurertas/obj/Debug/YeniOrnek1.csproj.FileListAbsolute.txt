@@ -1,0 +1,76 @@
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\YeniOrnek1.exe.config
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\YeniOrnek1.exe
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\YeniOrnek1.pdb
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.AssemblyReference.cache
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.Main.resources
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.Properties.Resources.resources
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.GenerateResource.cache
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.exe
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.pdb
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.Ogrenci.frmYeni.resources
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\EntityFramework.dll
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\EntityFramework.xml
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.Up2Date
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\bin\Debug\QRCoder.dll
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.Ogrenci.frmGSL.resources
+C:\Users\ARIBILGI\source\repos\YeniOrnek1\obj\Debug\YeniOrnek1.frmLogin.resources
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\YeniOrnek1.exe.config
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\YeniOrnek1.exe
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\YeniOrnek1.pdb
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\EntityFramework.dll
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\QRCoder.dll
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\EntityFramework.xml
+C:\Users\songule3423\Desktop\YeniOrnek1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.AssemblyReference.cache
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.frmLogin.resources
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.Main.resources
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.Ogrenci.frmGSL.resources
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.Ogrenci.frmYeni.resources
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.Properties.Resources.resources
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.GenerateResource.cache
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.Up2Date
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.exe
+C:\Users\songule3423\Desktop\YeniOrnek1\obj\Debug\YeniOrnek1.pdb
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\YeniOrnek1.exe.config
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\YeniOrnek1.exe
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\YeniOrnek1.pdb
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\EntityFramework.dll
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\QRCoder.dll
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\EntityFramework.xml
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.AssemblyReference.cache
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.frmLogin.resources
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.Main.resources
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.Ogrenci.frmGSL.resources
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.Ogrenci.frmYeni.resources
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.Properties.Resources.resources
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.GenerateResource.cache
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.csproj.Up2Date
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.exe
+C:\Users\songule3423\Desktop\Yazılım Pratik Notları\YeniOrnek1\obj\Debug\YeniOrnek1.pdb
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\YeniOrnek1.exe.config
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\YeniOrnek1.exe
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\YeniOrnek1.pdb
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\EntityFramework.dll
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\QRCoder.dll
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\EntityFramework.xml
+C:\Users\songule3423\Desktop\ugurertas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.csproj.AssemblyReference.cache
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.frmLogin.resources
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.Main.resources
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.Ogrenci.frmGSL.resources
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.Ogrenci.frmYeni.resources
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.Properties.Resources.resources
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.csproj.GenerateResource.cache
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.csproj.CoreCompileInputs.cache
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.csproj.Up2Date
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.exe
+C:\Users\songule3423\Desktop\ugurertas\obj\Debug\YeniOrnek1.pdb
